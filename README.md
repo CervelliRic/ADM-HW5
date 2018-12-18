@@ -8,10 +8,10 @@
 In this repository you can find  HW_5 for for ADM class! 
 You can find different files : 
 - [The markdown of our work](https://github.com/CervelliRic/ADM-HW5/blob/master/HW5FD.ipynb)
-- [I plot](https://github.com/CervelliRic/ADM-HW5/blob/master/plot1.png)
-- [II plot](https://github.com/CervelliRic/ADM-HW5/blob/master/plot2.png)
-- [III plot](https://github.com/CervelliRic/ADM-HW5/blob/master/redplot1.png)
-- [IV plot](https://github.com/CervelliRic/ADM-HW5/blob/master/redplot2.png)
+- [I plot](https://github.com/CervelliRic/ADM-HW5/blob/master/plot1.svg)
+- [II plot](https://github.com/CervelliRic/ADM-HW5/blob/master/plot2.svg)
+- [III plot](https://github.com/CervelliRic/ADM-HW5/blob/master/redplot1.svg)
+- [IV plot](https://github.com/CervelliRic/ADM-HW5/blob/master/redplot2.svg)
 - [olist_cat.pkl (where we saved our categories)](https://github.com/CervelliRic/ADM-HW5/blob/master/olist_cat.pkl)
 
 ## Interesting facts..
